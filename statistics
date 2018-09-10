@@ -1,0 +1,8 @@
+1. mean / average : 
+2. median : sort all elements get middle element, if data set conatains even numbers, take mean of two middle numbers
+    ex : [1, 2, 3, 4, 5, 6] : median = (3+4)/2 = 3.5
+    
+3. mode : most common element , [22,33,22,44,55,22,88,22] : mode : 22 , appeared 4 times
+          [1,1,2,3,4,4] : mode either 1 or 4
+          
+4.
