@@ -1,3 +1,7 @@
+#### computer vision books
+
+            https://szeliski.org/Book/
+
 #### syllabus : copied
 
 *Course Description:*
