@@ -13,3 +13,8 @@ python datascience : https://github.com/jakevdp/PythonDataScienceHandbook
 maths pdf : https://gwthomas.github.io/docs/math4ml.pdf?fbclid=IwAR2UsBgZW9MRgS3nEo8Zh_ukUFnwtFeQS8Ek3OjGxZtDa7UxTYgIs_9pzSI
 
 buffalo uni : https://cedar.buffalo.edu/~srihari/CSE574/
+
+
+#### generative ai
+
+        https://youtu.be/As3TT3xlddU
