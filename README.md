@@ -18,3 +18,7 @@ buffalo uni : https://cedar.buffalo.edu/~srihari/CSE574/
 #### generative ai
 
         https://youtu.be/As3TT3xlddU
+
+#### reinforcement
+
+                https://web.mit.edu/dimitrib/www/RLbook.html
