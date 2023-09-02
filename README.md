@@ -14,6 +14,9 @@ maths pdf : https://gwthomas.github.io/docs/math4ml.pdf?fbclid=IwAR2UsBgZW9MRgS3
 
 buffalo uni : https://cedar.buffalo.edu/~srihari/CSE574/
 
+#### blog
+
+        https://sdsclub.com/machine-learning-a-z-tips-and-resources/
 
 #### generative ai
 
